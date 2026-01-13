@@ -2,7 +2,7 @@
 
 A high-performance ray tracer built from scratch in C++ featuring physically-based rendering, BVH acceleration, and advanced visual effects. Developed as part of the CSE2215 Computer Graphics course at TU Delft.
 
-![Stanford Dragon with Gradient Shading](images/ss2.jpg)
+![Stanford Dragon with Gradient Shading](images/ss1.jpg)
 
 ## ✨ Features
 
@@ -26,7 +26,7 @@ A high-performance ray tracer built from scratch in C++ featuring physically-bas
 - Glossy reflections with configurable shininess
 - Fresnel effects
 
-![Cornell Box with Reflections](images/ss3.jpg)
+![Cornell Box with Reflections](images/ss2.jpg)
 
 #### 💡 Advanced Lighting
 - Point lights
@@ -57,7 +57,7 @@ A high-performance ray tracer built from scratch in C++ featuring physically-bas
 - Realistic bokeh effects
 - Multiple samples per pixel for smooth blur
 
-![Depth of Field Visualization](images/ss9.jpg)
+![Depth of Field Visualization](images/ss8.jpg)
 
 ### 🎯 Geometry & Acceleration
 
@@ -139,8 +139,8 @@ Detailed implementation reports available:
 ### Environment Mapping
 ![Environment Map - Indoor Scene](images/ss6.jpg)
 
-### Glossy Reflections Debug
-![Glossy Reflections](images/ss8.jpg)
+### Cornell Box Reflections
+![Cornell Box Scene](images/ss3.jpg)
 
 ---
 
